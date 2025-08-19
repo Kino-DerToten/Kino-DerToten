@@ -3,7 +3,8 @@
 📡 Systems Analsyt | 🖥️ SOC Analyst in the Making  
 
 Welcome to my GitHub!  
-I’m currently working in IT as a Systems Analyst while building a solid cybersecurity foundation through labs, certifications, and hands-on projects. My mission is simple:  
+I’m currently working in IT as a Systems Analyst while building a solid cybersecurity foundation through labs, certifications, and hands-on projects. 
+My mission is simple:  
 👉 **Defend systems. Detect threats. Stay ahead of adversaries.**  
 
 ---
