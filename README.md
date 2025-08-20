@@ -23,7 +23,7 @@ My mission is simple:
 
 🍯**Azure Cloud SOC Honeypot** → Deployed a VM honeypot in Azure, forwarded logs to Log Analytics, and integrated Microsoft Sentinel for real-world attack 
 
-🧪 **Red Team Simulation + Detection** → I’ll understand how attackers operate, practice defending in Splunk & Sentinel with real-world queries, and respond like a SOC analyst. 
+🧪 **Red Team Simulation + Detection** → Simulated attacker techniques and practiced defending in Splunk & Sentinel with real-world queries, responding like a SOC analyst.
 
 ---
 
