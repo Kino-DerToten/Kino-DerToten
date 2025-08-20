@@ -18,8 +18,11 @@ My mission is simple:
 ---
 
 ## 🔬 Current Projects in Progress  
+
 ⚔️ **SOC Monitoring & Response Environment** → SOC-like environment where I practice log analysis, scripting, SIEM queries, IDS/IPS alerts, and EDR concepts.
+
 🍯**Azure Cloud SOC Honeypot** → Deployed a VM honeypot in Azure, forwarded logs to Log Analytics, and integrated Microsoft Sentinel for real-world attack 
+
 🧪 **Red Team Simulation + Detection** → I’ll understand how attackers operate, practice defending in Splunk & Sentinel with real-world queries, and respond like a SOC analyst. 
 
 ---
