@@ -17,11 +17,11 @@ My mission is simple:
 
 ---
 
-## 🔬 Current Projects in Progress  
+## 🔬 Current Projects  
+
+🍯[Azure Cloud SOC Honeypot](https://github.com/Kino-DerToten/SOC-Azure-Honeypot) → Deployed a VM honeypot in Azure, forwarded logs to Log Analytics, and integrated Microsoft Sentinel for real-world attack.
 
 ⚔️ **SOC Monitoring & Response Environment** → SOC-like environment where I practice log analysis, scripting, SIEM queries, IDS/IPS alerts, and EDR concepts.
-
-🍯**Azure Cloud SOC Honeypot** → Deployed a VM honeypot in Azure, forwarded logs to Log Analytics, and integrated Microsoft Sentinel for real-world attack 
 
 🧪 **Red Team Simulation + Detection** → Simulated attacker techniques and practiced defending in Splunk & Sentinel with real-world queries, responding like a SOC analyst.
 
